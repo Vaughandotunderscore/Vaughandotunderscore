@@ -1,2 +1,1 @@
-I'm Vaughan
-This is my github profile
+I'm Vaughan. This is my github profile
